@@ -3,5 +3,6 @@
   "useCompilerFolder": true,
   "templateUrl": "https://github.com/businesscentralapps/tmpSfvPSZ-PTE@main",
   "type": "PTE",
-  "MicrosoftTelemetryConnectionString": ""
+  "MicrosoftTelemetryConnectionString": "",
+  "templateSha": "f43dbf564cc1bf6e4db5ed5e5b13b211e617e4b0"
 }
